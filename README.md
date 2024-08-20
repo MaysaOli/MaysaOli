@@ -1,6 +1,5 @@
 Hello! I’m Maysa from Brazil, a passionate Information Technology student with a deep enthusiasm for programming and web development. I’m diving headfirst into the tech world and am constantly seeking to expand my knowledge and skills.
 
-What I Do:
 IT Student: I’m at the beginning of my professional journey, focusing on learning and growing in the field of technology.
 Aspiring Developer: I have hands-on experience with HTML, CSS, JavaScript, PHP, and MySQL. I love taking on challenging projects and solving problems through code.
 What I’m Looking For:
