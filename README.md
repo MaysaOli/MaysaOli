@@ -1,10 +1,8 @@
-Olá! Sou Maysa, estudante de Tecnologia da Informação com um grande entusiasmo por programação e desenvolvimento web. 
-Atualmente, estou mergulhando de cabeça no mundo da tecnologia e buscando constantemente expandir meus conhecimentos e habilidades.
+Hello! I’m Maysa from Brazil, a passionate Information Technology student with a deep enthusiasm for programming and web development. I’m diving headfirst into the tech world and am constantly seeking to expand my knowledge and skills.
 
-O que eu faço:
-Estudante de TI: Estou no início da minha jornada profissional, focada em aprender e crescer no campo da tecnologia.
-Desenvolvedora em Formação: Tenho experiência prática com HTML, CSS, JavaScript, PHP e MySQL. 
-Adoro criar projetos desafiadores e resolver problemas com código.
-O que estou buscando:
-Aprendizado Contínuo: Estou sempre em busca de novas oportunidades para aprender e me aprimorar, seja por meio de cursos, projetos pessoais ou colaborativos.
-Colaborações: Interessada em colaborar com outros desenvolvedores e contribuir para projetos open-source. Acredito que trabalhar em equipe é uma excelente forma de evoluir.
+What I Do:
+IT Student: I’m at the beginning of my professional journey, focusing on learning and growing in the field of technology.
+Aspiring Developer: I have hands-on experience with HTML, CSS, JavaScript, PHP, and MySQL. I love taking on challenging projects and solving problems through code.
+What I’m Looking For:
+Continuous Learning: I’m always eager to learn new things and improve, whether through courses, personal projects, or collaborative work.
+Collaboration Opportunities: Interested in working with other developers and contributing to open-source projects. I believe teamwork is a fantastic way to grow.
