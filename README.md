@@ -2,7 +2,7 @@ Hello! I'm Maysa from Brazil, a passionate student of Information Technology wit
 
 💻 IT Student: I'm at the beginning of my professional journey, focused on learning and growing in the tech field.
 
-🌐 Aspiring Developer: I have practical experience with HTML, CSS, JavaScript, PHP, and MySQL. Currently, I'm developing a support website for victims of violence as part of my integrative project and a weather research site where users can check the weather forecast for their cities.
+🌐 Aspiring Developer: I have practical experience with HTML, CSS, JavaScript, PHP, and MySQL.
 
 📚 Continuous Learning: I'm always eager to learn new things and improve, whether through courses, personal projects, or collaborative work.
 
